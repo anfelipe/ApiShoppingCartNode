@@ -1,0 +1,25 @@
+[{
+        "Name": "women-main",
+        "Color": "0xFFBADDD7"
+    },
+    {
+        "Name": "mens-main",
+        "Color": "0xFF81CBE4"
+    },
+    {
+        "Name": "plus_size-main",
+        "Color": "0xFFCCB9AB"
+    },
+    {
+        "Name": "girls_main",
+        "Color": "0xFFD3CC74"
+    },
+    {
+        "Name": "beauty-main",
+        "Color": "0xFFF0A6BD"
+    },
+    {
+        "Name": "sale-main",
+        "Color": "0xFF9E9E9E"
+    }
+]
